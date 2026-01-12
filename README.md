@@ -68,11 +68,13 @@ TypeScript      ██████████░░░░░░░░░░ 2 r
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10xCore&show_icons=true&theme=dark&count_private=true)](https://github.com/10xCore)
+[![GitHub Stats](https://github-stats-api.herokuapp.com/api?username=10xCore&show_icons=true&theme=dark&count_private=true)](https://github.com/10xCore)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10xCore&layout=compact&theme=dark&langs_count=10)](https://github.com/10xCore)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10xCore&layout=donut&theme=dark&langs_count=8)](https://github.com/10xCore)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=10xCore&theme=dark)](https://github.com/10xCore)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=10xCore&theme=dark)](https://github.com/10xCore)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=10xCore&theme=dark&hide_border=true)](https://github.com/10xCore)
 
 </div>
 

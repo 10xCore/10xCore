@@ -66,11 +66,15 @@ TypeScript      ██████████░░░░░░░░░░ 2 r
 
 ### 🎨 GitHub Stats Cards
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10xCore&show_icons=true&theme=dark&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10xCore&layout=compact&theme=dark)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10xCore&show_icons=true&theme=dark&count_private=true)](https://github.com/10xCore)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=10xCore&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10xCore&layout=compact&theme=dark&langs_count=10)](https://github.com/10xCore)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=10xCore&theme=dark)](https://github.com/10xCore)
+
+</div>
 
 ---
 

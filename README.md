@@ -64,11 +64,21 @@ TypeScript      ██████████░░░░░░░░░░ 2 r
 
 ---
 
+### 🎨 GitHub Stats Cards
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=10xCore&theme=dracula)](https://github.com/10xCore)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=10xCore&theme=dracula)](https://github.com/10xCore)
+
+</div>
+
 ### 📈 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=10xCore&theme=dracula)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=10xCore&theme=dracula)](https://github.com/10xCore)
 
 </div>
 

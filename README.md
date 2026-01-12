@@ -29,7 +29,21 @@ Hello! I'm **10xCore**, a passionate developer dedicated to creating innovative 
 ## 📊 Live Statistics
 
 <!-- STATS_START -->
-*Loading statistics...  (Updates every 6 hours)*
+
+### 📊 Live Statistics
+
+| Metric | Value |
+|--------|-------|
+| Public Repositories | **14** |
+| Total Stars | ⭐ **1** |
+| Total Forks | 🍴 **1** |
+| Followers | 👥 **0** |
+| Following | 🔗 **0** |
+| Total Commits | 📝 **9** |
+| Average Stars/Repo | 📈 **0** |
+| Last Updated | 🕐 *2026-01-12 09:02:31 UTC* |
+
+
 <!-- STATS_END -->
 
 ---
@@ -37,7 +51,15 @@ Hello! I'm **10xCore**, a passionate developer dedicated to creating innovative 
 ## 🛠️ Language Distribution
 
 <!-- LANGUAGE_START -->
-*Loading language data... (Updates every 6 hours)*
+
+### 🛠️ Language Distribution
+
+```
+Python          ████████████████████ 4 repos
+TypeScript      ██████████░░░░░░░░░░ 2 repos
+```
+
+
 <!-- LANGUAGE_END -->
 
 ---
@@ -55,7 +77,25 @@ Hello! I'm **10xCore**, a passionate developer dedicated to creating innovative 
 ## ⭐ Top Repositories
 
 <!-- REPOS_START -->
-*Loading top repositories... (Updates every 6 hours)*
+
+### ⭐ Top Repositories
+
+- **[MusicPlayer](https://github.com/10xCore/MusicPlayer)** - A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls. This is Also The Source Code of The UserBot Which is Playing Music in @S1-BOTS Support Group ❤️
+  - ⭐ 1 stars | 🍴 0 forks | 🔧 N/A
+
+- **[10xCore](https://github.com/10xCore/10xCore)** - No description
+  - ⭐ 0 stars | 🍴 0 forks | 🔧 Python
+
+- **[README.md](https://github.com/10xCore/README.md)** - No description
+  - ⭐ 0 stars | 🍴 0 forks | 🔧 N/A
+
+- **[preposition-palace-26](https://github.com/10xCore/preposition-palace-26)** - No description
+  - ⭐ 0 stars | 🍴 0 forks | 🔧 TypeScript
+
+- **[emailpostermanual](https://github.com/10xCore/emailpostermanual)** - No description
+  - ⭐ 0 stars | 🍴 0 forks | 🔧 N/A
+
+
 <!-- REPOS_END -->
 
 ---

@@ -143,5 +143,8 @@ TypeScript      ██████████░░░░░░░░░░ 2 r
 
 ## 📊 Activity
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=10xCore.10xCore)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F10xCore&label=Profile%20Views&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2F10xCore)
 
+---
+
+**Made with ❤️ by 10xCore** | Last auto-updated: *Check GitHub Actions for timestamp*

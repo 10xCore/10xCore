@@ -135,7 +135,69 @@ TypeScript      ██████████░░░░░░░░░░ 2 r
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Skills & Proficiency
+
+### **Language Proficiency**
+
+```
+JavaScript   ████████████████████ 95%
+Python       ███████████████░░░░░ 85%
+TypeScript   ███████████████░░░░░ 80%
+React        ████████████████░░░░ 85%
+Node.js      ███████████████░░░░░ 80%
+SQL          █████████████░░░░░░░ 70%
+```
+
+### **Competency Matrix**
+
+| Category | Skills | Level |
+|----------|--------|-------|
+| **Frontend** | React, Next.js, Vue.js, Tailwind CSS | ⭐⭐⭐⭐⭐ |
+| **Backend** | Node.js, Python, Express, Django | ⭐⭐⭐⭐⭐ |
+| **Database** | PostgreSQL, MongoDB, Redis | ⭐⭐⭐⭐ |
+| **DevOps** | Docker, AWS, GitHub Actions, CI/CD | ⭐⭐⭐⭐ |
+| **Tools** | Git, VS Code, Postman, Figma | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 🚀 Featured Projects
+
+### **Key Achievements**
+- 🎯 **14** Public Repositories
+- ⭐ **1** Total Stars Earned
+- 🍴 **1** Total Forks
+- 👥 **0** Followers (Come say hi! 👋)
+- 📝 **15** Total Commits
+
+---
+
+## � 2026 Goals & Progress
+
+### **Quarterly Objectives**
+
+```
+Q1 2026:
+  ✓ Set up dynamic README with GitHub Actions
+  [ ] Contribute to 5+ open source projects
+  [ ] Reach 100 followers
+
+Q2 2026:
+  [ ] Build 3 innovative projects
+  [ ] Get 1K stars on projects
+```
+
+### **Annual Targets**
+
+```
+🎯 Target Followers      : 500+
+🎯 Target Stars Earned   : 1000+
+🎯 Target PRs Merged     : 50+
+🎯 Open Source Projects  : 5+
+```
+
+---
+
+## �🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/10xcore)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/10xCore)
